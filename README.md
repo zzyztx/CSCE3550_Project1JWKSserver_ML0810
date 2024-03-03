@@ -10,7 +10,6 @@ CSCE 3550.002
 
 <br/><br/>
 I choose to use Node.js and Javascript since in my academic journy I have primarly be using C/C++ and python/python 3.
-
 <br/><br/>
 <br/><br/>
 
