@@ -1,0 +1,29 @@
+GET http://localhost:8080/posts
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJraWQiOiI5OTc4ZDI4NjE4NmRmMTUwYzRiY2U1NjhmNDIxNzkyZmRiN2NkNDZjMWE0ZGQyYjE0OWE4YzkzNzQ4MTFkNjc1Y2M1ZDRmMjQ2NjFkNjc2YmY5NDdiMGM4MDhhNWRmNjVkYzBlOGJmNmNiOWY0ZGZmNDM1ODJjNzFiMmFlNDI4YyIsImV4cGlyZWQiOmZhbHNlLCJpYXQiOjE3MDk0MzM5NjEsImV4cCI6MTcwOTQzMzk3MX0.N3JwdlbQdnJCIeJpdPd4xbI_wHgWlAbzZS-6ISgmg2ZmBIHFSt-QHYG7zV3PkvaYbP6VgxWx-3SLXDlUTgfnwhIZtosKSDS9Gm7Y9p_H9lV_HkKlMtIFLnzJOPTsFeWNhuGzONrn7KHOukt2qi7qtfispQS-vVzgnmDh4qwFJWF6B3z7JlJBSvuRspZiQB6FItB7lpGVKm4Oan4K4cQpG6D1OK_GijXHylVUr7Eqh-si0JDyV99BKn0yLA5Ixlbk53iARFBHZZ7SeCSRCwV2yMAm6WdvkNwUHb3OvHUptXzPZL3HAMybzIvYPjZ3N6qkcaJoJu7kpXEGW7YTGMaGaQ
+
+
+
+
+// Authorization: Bearer <token> syntax to test expired or not logins
+###
+POST http://localhost:8080/login
+Content-Type: application/json
+
+
+// normal auth login post, user is assumed to be authenitcated
+###
+POST http://localhost:8080/login?expired=true
+Content-Type: application/json
+
+
+
+// expired auth login post
+
+
+
+// Test 1: Normal user login
+// Test 2: Expired user login
+// Test 3: Normal user login, JWT expired
+// Test 4: Expired user login, JWT expired
+// Test 5: Status Code 401
+// Test 6: Status Code 403
