@@ -11,11 +11,7 @@ CSCE 3550.002
 I choose to use Node.js and Javascript since in my academic journy I have primarly be using C/C++ and python/python 3.
 
 **Requirements**
-**1. Key Generation**
-    a. Implement RSA key pair generation.
-
-    b. Associate a Key ID (kid) and expiry timestamp with each key.
-
+**1. Key Generation** 1. Implement RSA key pair generation. 2. Associate a Key ID (kid) and expiry timestamp with each key.
 ![image](https://github.com/zzyztx/Project1/assets/91233057/43f371d4-5956-4b3a-aac4-1e18ceaece56)
 
 **2. Web server with two handlers**
