@@ -35,13 +35,11 @@ I choose to use Node.js and Javascript since in my academic journy I have primar
 <br/><br/>
 <br/><br/>
 
-
 **3. Documentation** a. Code should be organized. b. Code should be commented where needed. c. Code should be linted per your language/framework.
 
 I did my best with this README.md and tried to post related snippets of code to the requirements.
 <br/><br/>
 <br/><br/>
-
 
 **4. Tests** a. Test suite for your given language/framework with tests for you. b. Test coverage should be over 80%.
 
@@ -73,13 +71,12 @@ Test Case 4 - Expired User Login, JWT Expired
 ![image](https://github.com/zzyztx/Project1/assets/91233057/2b4739b0-5477-49de-a9a6-4f14235eed3a)
 
 
-Test Case 5 - HTTPS 401 Status Code - Unauthoried User
+Test Case 5 - HTTPS 401 Status Code - Unauthorized User
 ![image](https://github.com/zzyztx/Project1/assets/91233057/af0896bf-164c-4869-b323-4c6ea61c2746)
 
 
 Test Case 6 - HTTPS 403 Status Code - Forbidden
 ![image](https://github.com/zzyztx/Project1/assets/91233057/96a5a59d-527c-4d63-b1ed-802766ce35be)
-
 
 
 
