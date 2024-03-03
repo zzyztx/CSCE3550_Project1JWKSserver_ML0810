@@ -47,6 +47,9 @@ HOW TO RUN MY SERVER.JS TO TEST IT
 1. Navigate to the folder with all my files on a terminal, in my case VS Code
 2. enter "npm run serverStart" in the terminal, this will run a script and package installed in package.json and start the server locally on port 8080
 
+YOUTUBE VIDEO LINK OF ME RUNNING AND DOING MY TEST CASES LIVE : https://youtu.be/fZ8pDJQgNA8
+
+
 ![image](https://github.com/zzyztx/Project1/assets/91233057/7b454939-416f-4df0-b45d-4ef608f54c3e)
 <br/><br/>
 <br/><br/>
