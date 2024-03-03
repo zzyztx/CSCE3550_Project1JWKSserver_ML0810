@@ -46,16 +46,13 @@ I did my best with this README.md and tried to post related snippets of code to 
 
 **4. Tests** a. Test suite for your given language/framework with tests for you. b. Test coverage should be over 80%.
 
-
 HOW TO RUN MY SERVER.JS TO TEST IT
 1. Navigate to the folder with all my files on a terminal, in my case VS Code
 2. enter "npm run serverStart" in the terminal, this will run a script and package installed in package.json and start the server locally on port 8080
 
 ![image](https://github.com/zzyztx/Project1/assets/91233057/7b454939-416f-4df0-b45d-4ef608f54c3e)
-
-
-
-
+<br/><br/>
+<br/><br/>
 
 ![image](https://github.com/zzyztx/Project1/assets/91233057/45657978-bbd3-4926-a6bb-2336910239d3)
 
