@@ -29,7 +29,10 @@ I choose to use Node.js and Javascript since in my academic journy I have primar
 ![image](https://github.com/zzyztx/Project1/assets/91233057/58b2e622-701b-477e-9b7b-902e97ff2599)
 
 
+
+
 **3. Documentation** a. Code should be organized. b. Code should be commented where needed. c. Code should be linted per your language/framework.
+
 I did my best with this README.md and tried to post related snippets of code to the requirements.
 
 
