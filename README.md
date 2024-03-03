@@ -13,15 +13,23 @@ I choose to use Node.js and Javascript since in my academic journy I have primar
 **Requirements**
 **1. Key Generation**
     a. Implement RSA key pair generation.
+
     b. Associate a Key ID (kid) and expiry timestamp with each key.
+
 ![image](https://github.com/zzyztx/Project1/assets/91233057/43f371d4-5956-4b3a-aac4-1e18ceaece56)
 
 **2. Web server with two handlers**
+
     a. Serve HTTP on port 8080
+
     b. A RESTful JWKS endpoint that serves the public keys in JWKS format.
+
       1. Only serve keys that have not expired.
+
     c. A /auth endpoint that returns an unexpired, signed JWT on a POST request.
+
       1. If the “expired” query parameter is present, issue a JWT signed with the expired key pair and the expired expiry.
+
 
 **3. Documentation**
     a. Code should be organized.
